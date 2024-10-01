@@ -79,10 +79,11 @@ To generate Allure reports after the test run:
    allure serve allure-results
    ```
 ### Allure Reports
-Adding soon...
+![image](https://github.com/user-attachments/assets/4698cf50-b37e-45d9-9978-29d73119fd76)
+![image](https://github.com/user-attachments/assets/ab50e67d-8e33-476a-b950-c018d120c4c1)
 
 ### Video Recording
-Comming soon.....
+https://www.loom.com/share/978fc90474794566b540725e09b789b6?sid=873d16fc-4f58-4979-9b82-2c20919ec21f
 
 ## .gitignore
 
