@@ -1,7 +1,10 @@
-cat <<EOL > README.md
 # Kalbela Mobile Application Automation
 
 This project automates testing for the Kalbela mobile application using Java, Selenium, Appium, TestNG, and Gradle. Additionally, Allure is integrated for test reporting, and video recording is enabled for test runs.
+
+## Disclaimer
+
+The Kalbela mobile application's UI contains elements where the selectors (e.g., XPath) are in Bangla. Unfortunately, Appium does not currently support recognizing Bangla text in its default configuration, which may cause issues when identifying elements for automated tests.
 
 ## Project Structure
 
