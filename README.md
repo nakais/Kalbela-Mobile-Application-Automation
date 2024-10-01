@@ -76,7 +76,7 @@ To generate Allure reports after the test run:
    allure serve allure-results
    ```
 ### Allure Reports
-
+Adding soon...
 
 ### Video Recording
 Comming soon.....
