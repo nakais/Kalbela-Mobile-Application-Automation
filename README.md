@@ -6,23 +6,26 @@ This project automates testing for the Kalbela mobile application using Java, Se
 ## Project Structure
 
 ```
-.
+Kalbela_Mobile_Application_Automation/
+├── .gradle/
+├── .idea/
+├── allure-report/                   # Allure report files
+├── allure-results/                  # Results generated for Allure reports
+├── build/
+│   └── reports/
+├── gradle/
+├── src/
+│   └── test/
+│       ├── java/
+│       │   ├── KalbelaAppScreen.java    # Page Object Model file for app screen interactions
+│       │   ├── Setup.java              # Setup and configuration for WebDriver and Appium
+│       │   └── TestRunner.java         # Test runner class for executing test cases
+│       └── resources/
+│           └── suite.xml               # TestNG suite file for running the tests
 ├── .gitignore
-├── build.gradle
-├── gradle
-├── gradlew
-├── gradlew.bat
-├── settings.gradle
-├── src
-│   ├── main
-│   └── test
-│       ├── java
-│       │   ├── KalbelaAppScreen.java
-│       │   ├── Setup.java
-│       │   └── TestRunner.java
-│       └── resources
-│           └── suite.xml
-└── .idea
+├── build.gradle                        # Gradle dependencies and configurations
+└── README.md                           # Project documentation
+
 ```
 
 ## Getting Started
