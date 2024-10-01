@@ -31,6 +31,9 @@ Kalbela_Mobile_Application_Automation/
 
 ```
 
+## Test Cases
+https://docs.google.com/spreadsheets/d/1zK_7E6lpmV7qH6_wDRfn8lqzJpIupjjSaJBrEkNMIzc/edit?usp=sharing
+
 ## Getting Started
 
 ### Prerequisites
