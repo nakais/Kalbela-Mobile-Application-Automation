@@ -4,7 +4,7 @@ This project automates testing for the Kalbela mobile application using Java, Se
 
 ## Disclaimer
 
-The Kalbela mobile application's UI contains elements where the selectors (e.g., XPath) are in Bangla. Unfortunately, Appium does not currently support recognizing Bangla text in its default configuration, which may cause issues when identifying elements for automated tests.
+The Kalbela mobile application's UI contains elements where the locators (e.g., XPath) are in Bangla. Unfortunately, Appium does not currently support recognizing Bangla text in its default configuration, which may cause issues when identifying elements for automated tests.
 
 ## Project Structure
 
